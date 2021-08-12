@@ -8,11 +8,13 @@ mBot Project was built upon the contents and principles of the module. The objec
 1. Moving Straight when not turning
 2. Obstacle Detection (Front & Side)
 3. Colour Detection at Waypoint
+4. Black and White Detection
 
 # Hardware 
 1. mBot
 2. Infrared Proximity Sensor
-3. RJ25 Adaptor
-4. Ultrasonic Sensor
-5. LED
-6. Color Detector
+3. Line Detector
+4. RJ25 Adaptor
+5. Ultrasonic Sensor
+6. LED
+7. Color Detector
