@@ -3,7 +3,7 @@ AY20/21 CG1111 Project
 
 ![Gary](https://user-images.githubusercontent.com/69495787/129221681-450397b5-4cd1-4f4f-8b1a-38a638b143f1.jpg)
 
-Gary the Scapbot
+Gary the ScrapBot
 # Introduction
 mBot Project was built upon the contents and principles of the module. The objective of mBot is to navigate through a maze in the shortest time whilst facing a number of challenges at different waypoints. 
 
